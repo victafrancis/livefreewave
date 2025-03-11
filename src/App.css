@@ -1,38 +1,65 @@
+/* Global Styles */
+body {
+  background-color: #121212;
+  color: #f1f1f1;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  background-color: #222;
   color: white;
+  padding: 20px;
+  font-weight: 300; /* Thinner header font */
 }
 
-.App-link {
-  color: #61dafb;
+main {
+  padding: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Video Section - unchanged settings except for title font adjustments */
+.video-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+}
+
+.video {
+  width: 100%;
+  max-width: 600px;
+}
+
+.video h3 {
+  margin-bottom: 10px;
+  font-size: 1.5rem; /* Increased font size */
+  color: #f1f1f1;   /* Lighter text for dark theme */
+  font-weight: 300; /* Thinner font */
+}
+
+.video iframe {
+  width: 100%;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Footer */
+footer {
+  background-color: #222;  /* Dark background */
+  color: #f1f1f1;         /* Light text */
+  padding: 10px;
+  margin-top: 20px;
+}
+
+/* Contact email styling */
+footer a {
+  color: #bb86fc;  /* Accent color for better readability */
+  text-decoration: none;
+  font-weight: 500; /* Slightly bolder for clarity */
 }
