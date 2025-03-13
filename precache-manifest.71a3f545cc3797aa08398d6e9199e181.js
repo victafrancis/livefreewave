@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8b65d8164eaefaf450b8256ccd52ac6",
+    "revision": "322b3c861cbd22136f5004d587603c00",
     "url": "/livefreewave/index.html"
   },
   {
-    "revision": "5a2e1083ec090ea73394",
+    "revision": "3cb94d45668af48da438",
     "url": "/livefreewave/static/css/main.2700bd7c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/livefreewave/static/js/3.479fda85.chunk.js"
   },
   {
-    "revision": "5a2e1083ec090ea73394",
-    "url": "/livefreewave/static/js/main.43f0b3e1.chunk.js"
+    "revision": "3cb94d45668af48da438",
+    "url": "/livefreewave/static/js/main.678f1709.chunk.js"
   },
   {
     "revision": "73cc605e8d94ae706ce6",

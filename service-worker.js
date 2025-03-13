@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/livefreewave/precache-manifest.20a47058d4a060862400832285b46c84.js"
+  "/livefreewave/precache-manifest.71a3f545cc3797aa08398d6e9199e181.js"
 );
 
 self.addEventListener('message', (event) => {

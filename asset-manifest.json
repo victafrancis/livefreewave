@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/livefreewave/static/css/main.2700bd7c.chunk.css",
-    "main.js": "/livefreewave/static/js/main.43f0b3e1.chunk.js",
-    "main.js.map": "/livefreewave/static/js/main.43f0b3e1.chunk.js.map",
+    "main.js": "/livefreewave/static/js/main.678f1709.chunk.js",
+    "main.js.map": "/livefreewave/static/js/main.678f1709.chunk.js.map",
     "runtime-main.js": "/livefreewave/static/js/runtime-main.3b794125.js",
     "runtime-main.js.map": "/livefreewave/static/js/runtime-main.3b794125.js.map",
     "static/js/2.0dc7c272.chunk.js": "/livefreewave/static/js/2.0dc7c272.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.479fda85.chunk.js": "/livefreewave/static/js/3.479fda85.chunk.js",
     "static/js/3.479fda85.chunk.js.map": "/livefreewave/static/js/3.479fda85.chunk.js.map",
     "index.html": "/livefreewave/index.html",
-    "precache-manifest.20a47058d4a060862400832285b46c84.js": "/livefreewave/precache-manifest.20a47058d4a060862400832285b46c84.js",
+    "precache-manifest.71a3f545cc3797aa08398d6e9199e181.js": "/livefreewave/precache-manifest.71a3f545cc3797aa08398d6e9199e181.js",
     "service-worker.js": "/livefreewave/service-worker.js",
     "static/css/main.2700bd7c.chunk.css.map": "/livefreewave/static/css/main.2700bd7c.chunk.css.map",
     "static/js/2.0dc7c272.chunk.js.LICENSE.txt": "/livefreewave/static/js/2.0dc7c272.chunk.js.LICENSE.txt"
@@ -19,6 +19,6 @@
     "static/js/runtime-main.3b794125.js",
     "static/js/2.0dc7c272.chunk.js",
     "static/css/main.2700bd7c.chunk.css",
-    "static/js/main.43f0b3e1.chunk.js"
+    "static/js/main.678f1709.chunk.js"
   ]
 }
